@@ -1,0 +1,22 @@
+# Java class files
+*.class
+
+# IDE folders
+.idea/
+*.iml
+.vscode/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Output binaries
+*.hack
+*.asm
+
+# Logs
+*.log
+
+# Build folders
+bin/
+out/
